@@ -8,7 +8,7 @@ $ ./game
 ```
 
 ## Controlls
-WASD - move
-U    - zoom in
-I    - zoom out
+WASD - move\
+U    - zoom in\
+I    - zoom out\
 p    - refresh
